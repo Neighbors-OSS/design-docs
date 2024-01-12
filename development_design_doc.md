@@ -12,6 +12,14 @@ Briefly describe the project and its objectives.
 
 List the requirements of the project.
 
+- Ability to create a group (private or public)
+- Ability to join a group (private or public)
+- Ability to leave or kick from group
+- Ability to sign up
+- Ability to delete / transfer group
+- Ability to add group moderators / admins
+- Ability to delete account
+
 ## Design Decisions
 
 Document all the design decisions made, along with the reasons for making those decisions.
