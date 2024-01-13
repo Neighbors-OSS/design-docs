@@ -26,12 +26,47 @@ Document all the design decisions made, along with the reasons for making those 
 
 ### Decision 1
 
-- **Date:**
-- **Decision:**
+- **Date:** 1/13/2024
+- **Decision:** App name: "Neighbors"
 - **Reason:**
+ “Neighbors” is a solid choice several reasons. 
+
+1. It’s friendly and inviting while communicating 
+what it’s trying to replicate digitally. 
+2. It  communicates wholesome culture from the start.
+This is critical. People aren't users in a database, but groups of neighbors in a community. 
+3. Can be broken down further into intuitive logical groupings.
+
+    Neighbor = User
+    Group of neighbors = Neighborhood
+    Group of neighborhoods = Community (equivalent would be categories on other platforms.)
 
 ### Decision 2
+Colors: Blue and Green
 
+- **Date:** 1/13/2024
+- **Decision:** Colors: Blue and Green
+- **Reason:**
+
+Green for trust, harmony and growth.
+Blue for stability, calm and reliability.
+
+### Decision 3
+Landing Page 
+
+- **Date:** 1/13/2024
+- **Decision:** Landing Page
+    1. Signup at top pf page highly visible and center. 
+    2. Directly below without have a short description and "why."
+    3. Below that will show several “communities." in a row. 
+    4. Below that 3 neighborhoods in your area.
+- **Reason:**
+    1. Increase likelihood of engagement and signup.
+    2. Provides a reason to sign up
+    3. Shows what can be offered 
+    4. Shows what's available now.
+
+### Decision 4
 - **Date:**
 - **Decision:**
 - **Reason:**
