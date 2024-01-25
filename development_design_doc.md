@@ -4,6 +4,9 @@
 
 ### Date: 
 
+## Figma design
+https://www.figma.com/file/TSZizXyfWuKl7aK2GWIQrV/Neighbors-Landing-Page-Draft?type=design&node-id=0%3A1&mode=design&t=m4sLVB450LNqpCER-1
+
 ## Introduction
 
 Briefly describe the project and its objectives.
